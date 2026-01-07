@@ -1,0 +1,5 @@
+--- .gitignore (原始)
+
+
++++ .gitignore (修改后)
+Nothing should be ignored based on the provided file changes. The changes only include source/config files (.gitignore, script.js, index.html) and no build artifacts, dependencies, or temp files.
